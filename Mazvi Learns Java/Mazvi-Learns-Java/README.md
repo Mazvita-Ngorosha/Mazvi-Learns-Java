@@ -1,2 +1,2 @@
-# Mazvi Learns Java
+# README
  I am learning Java and here is the code
